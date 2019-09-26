@@ -1,7 +1,7 @@
 # Creatures of New York
 
 ## Rodents by Zip Code
-{% include html/rodents.html %}
+{% include rodents.html %}
 
 
 ## Pests by Zip Code
